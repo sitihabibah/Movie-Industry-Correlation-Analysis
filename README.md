@@ -12,7 +12,7 @@ The project evaluates and tests multiple hypotheses regarding the influence of:
 * Production companies (`company`)
 
 ## 📊 Dataset Overview
-The dataset encompasses a comprehensive list of movies spanning several decades, containing the following attributes:
+The original raw dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/danielgrijalvas/movies). The dataset encompasses a comprehensive list of movies spanning several decades, containing the following attributes:
 * `name`: Name of the movie
 * `rating`: Motion picture rating (R, PG-13, PG, etc.)
 * `genre`: Main genre of the movie
